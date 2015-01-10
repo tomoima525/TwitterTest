@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TwitterTest</string>
+    <string name="empty">Empty!!</string>
+    <string name="action_alltweets">All tweets</string>
+    <string name="action_count">Count</string>
+    <string name="title_activity_list_twitter">ListTwitterActivity</string>
+
+
+</resources>
